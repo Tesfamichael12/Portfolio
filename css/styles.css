@@ -72,13 +72,14 @@ html {
 body {
   background: var(--bg-color);
   color: var(--text-color);
+  overflow-x: hidden;
 }
 
 .header {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 100vw;
   padding: 2rem 7%;
   background: transparent;
   display: flex;
@@ -161,7 +162,7 @@ section {
 
 .home {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .home .home-content {
@@ -172,6 +173,7 @@ section {
   font-size: 3.2rem;
   font-weight: 700;
   line-height: 0.3;
+  margin-top: 90px;
 }
 
 .home-content h1 {
@@ -188,7 +190,14 @@ section {
   overflow: hidden;
   /* white-space: nowrap; */
   width: 100%;
-  height: 100%;
+  height: 120px;
+  margin-bottom: 37px;
+}
+
+@media (max-width: 768px) {
+  #name-title {
+    margin-bottom: 0;
+  }
 }
 
 .name-text {
@@ -492,7 +501,7 @@ span {
   );
   background-attachment: fixed;
   background-size: cover;
-  width: 100%;
+  width: 100vw;
   height: 100%;
   position: absolute;
   z-index: -1;
