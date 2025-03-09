@@ -1,9 +1,11 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -17,8 +19,7 @@
   },
   "homepage": "https://github.com/Tesfamichael12/Portfolio#readme",
   "description": "",
-  "devDependencies": {
-    "parcel": "^2.13.3",
-    "svgo": "^3.3.2"
+  "dependencies": {
+    "vite": "^6.2.1"
   }
 }
