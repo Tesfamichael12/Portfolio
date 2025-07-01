@@ -1,18 +1,30 @@
-# Tesfamichael Tafere's Portfolio
+# 🚀 Tesfamichael Tafere's Portfolio
 
-Welcome to my portfolio site! 🌟
+> Welcome to my digital space! 👋
 
-Check out my work and projects [here](https://tesfamichaeltafere.netlify.app/#home). 🚀
+🌍 [View My Live Portfolio](https://tesfamichaeltafere.netlify.app/#home)
 
-## About Me
+---
 
-I am a passionate developer with a keen interest in creating innovative solutions. My portfolio showcases a variety of projects that highlight my skills and expertise.
+## 👨‍💻 About Me
 
-Feel free to explore and reach out if you have any questions or opportunities! 😊
+Hi! I'm Tesfamichael, a passionate developer focused on building innovative, user-friendly web experiences. My portfolio highlights a range of projects, from web apps to educational tools, reflecting my love for technology and learning.
 
-## Contact
+---
 
-- Email: [tesfamichael132@gmail.com](mailto:tesfamichael132@gmail.com)
-- LinkedIn: [Tesfamichael Tafere](https://www.linkedin.com/in/tesfamichael-tafere)
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vite,figma" alt="Tech Stack" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [tesfamichael132@gmail.com](mailto:tesfamichael132@gmail.com)
+- 💼 LinkedIn: [Tesfamichael Tafere](https://www.linkedin.com/in/tesfamichael-tafere)
+
+---
 
 Thank you for visiting! 🙏
