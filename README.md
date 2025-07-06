@@ -15,7 +15,7 @@ Hi! I'm Tesfamichael, a passionate developer focused on building innovative, use
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vite,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vite,git,github,figma" alt="Tech Stack" />
 </p>
 
 ---
